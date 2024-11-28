@@ -1,0 +1,14 @@
+xformers==0.0.28.post2
+transformers==4.46.1
+datasets==3.1.0
+click==8.1.7
+appdirs==1.4.4
+docker-pycreds==0.4.0
+sentry-sdk==2.17.0
+pathtools==0.1.2
+wandb==0.15.8
+openpyxl==3.1.5
+numpy==1.26.4
+# pip install torch==2.5.0 torchvision==0.20.0 torchaudio==2.5.0 --index-url https://download.pytorch.org/whl/cu121
+# pip install "unsloth[cu121-torch250] @ git+https://github.com/unslothai/unsloth.git"
+# sudo apt install gcc
